@@ -10,6 +10,9 @@ namespace GitForConfilct
     {
         static void Main(string[] args)
         {
+            int x=20;
+            int d=x+x;
+            console.WriteLine(d);
         }
     }
 }
