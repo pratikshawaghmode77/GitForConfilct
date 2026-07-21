@@ -10,6 +10,9 @@ namespace GitForConfilct
     {
         static void Main(string[] args)
         {
+            int a=10;
+            int b=a+a;
+            console.writeLine(b);
         }
     }
 }
